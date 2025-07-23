@@ -1,0 +1,4 @@
+arr=list(int,input().split())
+arr.pop(-1)
+arr.insert(0,5)
+print(arr)
